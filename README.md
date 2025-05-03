@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Younes Abderrahmane
 
 🎯 **Full-Stack Developer** | JavaScript • React • Node.js • PostgreSQL  
-🌍 Based in London, UK | 🌱 Currently learning TypeScript & Cloud Infrastructure  
+🌍 Based in London, UK | 🌱 Currently learning TypeScript & Test Automation
 💬 Passionate about building scalable, accessible, and meaningful digital products—especially those that improve people’s lives.
 
 ---
